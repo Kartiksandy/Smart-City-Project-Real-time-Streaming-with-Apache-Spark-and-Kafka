@@ -1,31 +1,6 @@
 ## Overview
 Welcome to the Smart City Project repository! This project is a demonstration of real-time data streaming using Apache Spark and Kafka. We simulate data from a vehicle traveling from Central London to Birmingham, capturing GPS locations, weather conditions, and road incidents along the way.
-
-## Table of Contents
-Project Setup
-System Architecture
-Data Generation
-Streaming Pipeline
-AWS Integration
-Data Visualization
-Conclusion
-Project Setup
-Prerequisites
-Docker Desktop installed.
-Python 3.9 (Python 10 and 11 might work, but are not guaranteed).
-Creating the Project
-Clone the repository:
-
-git clone https://github.com/yourusername/smart_city.git
-cd smart_city
-Set up a virtual environment with Python 3.9:
-
-
-python3.9 -m venv venv
-source venv/bin/activate
-Install required Python packages:
-
-pip install -r requirements.txt
+![image](https://github.com/user-attachments/assets/5f0a99d7-963e-444f-ae85-fc948cae9792)
 
 ## System Architecture
 Kafka and Zookeeper Setup
