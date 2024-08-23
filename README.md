@@ -44,7 +44,7 @@ An AWS Glue crawler is set up to catalog the data stored in S3.
 # AWS Athena
 Athena is used to query the data stored in S3, making it easy to analyze.
 # Data Visualization
-Use AWS Athena to query the processed data.
-Visualize the results with tools like PowerBI, Tableau, or any other BI tool.
+Used AWS Athena to query the processed data.
+To Visualize the results we used tool PowerBI.
 # Conclusion
 This project showcases a comprehensive approach to building a smart city application using real-time data streaming. The setup involves Apache Spark, Kafka, Docker, and AWS services like S3, Glue, and Athena.
